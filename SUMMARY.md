@@ -5,6 +5,7 @@
 ## Overview
 
 * [Introduction](overview/readme.md)
+* [Installing the CLI](overview/installing-the-cli.md)
 * [Advantages](overview/advantages.md)
 * [File Specification](overview/spec.md)
 * [ODXML](overview/introduction.md)

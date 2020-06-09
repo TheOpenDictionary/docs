@@ -1,18 +1,16 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [File Specification](spec.md)
+* [Advantages](advantages.md)
+* [Installing the CLI](installing-the-cli.md)
+* [ODXML](introduction/README.md)
+  * [&lt;dictionary&gt;](introduction/dictionary.md)
+  * [&lt;entry&gt;](introduction/entry.md)
+  * [&lt;ety&gt;](introduction/ety.md)
+  * [&lt;usage&gt;](introduction/usage.md)
+  * [&lt;group&gt;](introduction/group.md)
+  * [&lt;definition&gt;](introduction/definition.md)
 
 ## Overview
-
-* [Introduction](overview/readme.md)
-* [Installing the CLI](overview/installing-the-cli.md)
-* [Advantages](overview/advantages.md)
-* [File Specification](overview/spec.md)
-* [ODXML](overview/introduction/README.md)
-  * [&lt;dictionary&gt;](overview/introduction/dictionary.md)
-  * [&lt;entry&gt;](overview/introduction/entry.md)
-  * [&lt;ety&gt;](overview/introduction/ety.md)
-  * [&lt;usage&gt;](overview/introduction/usage.md)
-  * [&lt;group&gt;](overview/introduction/group.md)
-  * [&lt;definition&gt;](overview/introduction/definition.md)
 

@@ -12,5 +12,3 @@
   * [&lt;group&gt;](introduction/group.md)
   * [&lt;definition&gt;](introduction/definition.md)
 
-## Overview
-

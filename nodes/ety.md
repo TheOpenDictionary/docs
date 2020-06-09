@@ -8,11 +8,11 @@ Etymologies, shortened in ODXML to "ety" for simplicity, are the linguistic root
 | :--- | :--- | :--- |
 | description | String | No |
 
-## Child Nodes
+## Children
 
 | Name | Required? |
 | :--- | :--- |
-| \[Usage\]\[usage\] | Yes |
+| [&lt;usage&gt;](usage.md) | Yes |
 
-\[usage\]: [https://www.odict.org/odxml-nodes/usage.html](https://www.odict.org/odxml-nodes/usage.html)
+
 

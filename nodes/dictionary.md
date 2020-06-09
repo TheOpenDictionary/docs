@@ -8,11 +8,9 @@ Dictionary nodes occur at the base of all source files and will not compile with
 | :--- | :--- | :--- |
 | name | String | No |
 
-## Child Nodes
+## Children
 
 | Name | Required? |
 | :--- | :--- |
-| \[Entry\]\[entry\] | No, but recommended |
-
-\[entry\]: [https://www.odict.org/odxml-nodes/ety.html](https://www.odict.org/odxml-nodes/ety.html)
+| [&lt;entry&gt;](entry.md) | Recommended |
 

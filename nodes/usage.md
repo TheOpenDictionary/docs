@@ -6,14 +6,12 @@ Usages represent a group of definitions who share a single common trait, notable
 
 | Name | Type | Required? |
 | :--- | :--- | :--- |
-| pos | String | No, but recommended |
+| pos | String | Recommended |
 
-## Child Nodes
+## Children
 
 | Name | Required? |
 | :--- | :--- |
-| [Group](https://www.odict.org/odxml-nodes/group.html) | No |
-| \[Definition\]\[def\] | No |
-
-\[def\]: [https://www.odict.org/odxml-nodes/definition.html](https://www.odict.org/odxml-nodes/definition.html)
+| [&lt;group&gt;](group.md) | No |
+| [&lt;definition&gt;](definition.md) | No |
 

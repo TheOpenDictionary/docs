@@ -8,11 +8,9 @@ Entries are the primary entry point to the dictionary and represent **unique ter
 | :--- | :--- | :--- |
 | term | String | Yes |
 
-## Child Nodes
+## Children
 
 | Name | Required? |
 | :--- | :--- |
-| \[Etymology\]\[ety\] | Yes |
-
-\[ety\]: [https://www.odict.org/odxml-nodes/ety.html](https://www.odict.org/odxml-nodes/ety.html)
+| [&lt;ety&gt;](ety.md) | Yes |
 

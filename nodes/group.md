@@ -18,11 +18,9 @@ It is important to distinguish between these verb definitions so the definition 
 | :--- | :--- | :--- |
 | description | String | No, but recommended |
 
-## Child Nodes
+## Children
 
 | Name | Required? |
 | :--- | :--- |
-| [Definition](https://www.odict.org/odxml-nodes/definition.html) | Yes |
-
-\[usage\]: [https://www.odict.org/odxml-nodes/usage.html](https://www.odict.org/odxml-nodes/usage.html)
+| [&lt;definition&gt;](definition.md) | Yes |
 
